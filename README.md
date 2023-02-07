@@ -3,7 +3,7 @@
 ①	인식 모델은 이미지 데이터에 대한 인지 모델로 설계되어 있음 (비디오 데이터 x)  
 ②	FER2013 Dataset으로 학습된 fer2013_mini_XCEPTION.110-0.65 사용  
 나)	비디오 데이터 구성  
-①	Presentation and validation of the DuckEES child and adolescent dynamic facial expressions stimulus set
+①	Presentation and validation of the DuckEES child and adolescent dynamic facial expressions stimulus set    
     Background  
     1) 대상: 8-18세 남, 여 36명이 7가지 표정을 지음(평균 13.24세, 남성 14명), 142개의 비디오   
     2) 종류: 영상(1.1초) / 6가지 감정(+ 중립)3) 검증: 36명이 Labeling(평균 19.5세, 남성 13명)   
